@@ -1,7 +1,7 @@
 # TugasPABpart5
 ## 👩‍💻 Author
 
-Kelas:  | Nama                      | NIM           | Kelas             |
+| Nama                      | NIM           | Kelas             |
 |---------------------------|---------------|-------------------|
 |  Vebronia vitania Lusi    | 2409116112    | Sistem Informasi C|
 
