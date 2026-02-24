@@ -71,22 +71,8 @@ Sistem hanya mengurangi jumlah tanpa menghapus item.
 Jika quantity dikurangi dari 1 ke 0, sistem secara otomatis menghapus produk dari keranjang.  
 Hal ini mencegah adanya item dengan quantity 0.
 
----
 
-## 6️⃣ Clear All Cart
-
-📷 **Screenshot: Tombol clear untuk mengosongkan keranjang**
-
-<img width="1549" height="975" alt="image" src="https://github.com/user-attachments/assets/cdcd1fec-b5b8-48f4-998a-37f9e75a0ca5" />
-
-
-### Penjelasan:
-Tombol clear digunakan untuk menghapus seluruh item dalam keranjang sekaligus.  
-Setelah ditekan, sistem akan menampilkan tampilan keranjang kosong.
-
----
-
-## 7️⃣ Tampilan Keranjang Kosong
+## 6️⃣ Tampilan Keranjang Kosong
 
 📷 **Screenshot: Empty Cart View**
 
@@ -103,7 +89,7 @@ Ini meningkatkan user experience agar pengguna tidak bingung.
 
 ---
 
-## 8️⃣ Navigasi Kembali (State Tetap)
+## 7️⃣ Navigasi Kembali (State Tetap)
 
 📷 **Screenshot: Kembali ke halaman produk dan badge tetap benar**
 
